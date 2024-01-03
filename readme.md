@@ -50,6 +50,6 @@ python main.py
 ```
 
 ## Demo
-![Demo](https://raw.githubusercontent.com/gdscsjec/certificate-generator/main/misc/Abigail_Turner_Certificate.jpg)
+![Demo](https://raw.githubusercontent.com/gdscsjec/certificate-generator/main/misc/Abigail_Turner_Certificate.jpg?token=GHSAT0AAAAAACLCQBHJCVETCC76TKQRALZOZMVYVDA)
 ## Feedback and Contributions
 Feel free to provide feedback or contribute to the project by submitting issues or pull requests.
